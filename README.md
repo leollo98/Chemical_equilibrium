@@ -25,5 +25,5 @@ kivy
 https://kivy.org/#download
 ```
 
-###disclamer:
+### disclamer:
 this script is under development, I have no responsibility for possible faults present, discovered or not in the code
